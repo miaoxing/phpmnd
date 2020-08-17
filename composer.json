@@ -1,5 +1,5 @@
 {
-  "name": "povils/phpmnd",
+  "name": "miaoxing/phpmnd",
   "type": "application",
   "description": "A tool to detect Magic numbers in codebase",
   "license": "MIT",
